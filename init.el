@@ -1,6 +1,5 @@
 ;; *** Load custom files
 (setq files '("C:/Users/zbkoz/AppData/Roaming/.emacs.d/basicinit.el"
-		  "C:/Users/zbkoz/AppData/Roaming/.emacs.d/config-snippets.el"
 	      "C:/Users/zbkoz/AppData/Roaming/.emacs.d/extra-key-bindings.el"
 	      "C:/Users/zbkoz/AppData/Roaming/.emacs.d/packages.el"
 	      "C:/Users/zbkoz/AppData/Roaming/.emacs.d/setup-auctex.el"))
