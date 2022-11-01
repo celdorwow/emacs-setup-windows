@@ -1,6 +1,8 @@
 /*
 !.gitignore
 !snippets/
+!init.el
+!basicinit.el
 !config-snippets.el
 !extra-key-bindings.el
 !packages.el
